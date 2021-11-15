@@ -1,0 +1,88 @@
+body{
+    background-image:url("../img/textura-abstracta-azul-el-fondo-del-vector-se-puede-utilizar-en-diseño-de-la-cubierta-libro-cartel-cd-fondos-página-web-o-142607746.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.raiz{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    font-size: 40px;
+    float:left;
+
+}
+
+.item1, .item2, .item3, .item4, .item5{
+    background-color: cyan;
+    color: indigo;
+    width: 400px;
+    height: 70px;
+    border: inset;
+
+}
+
+.foto{
+    width: 700px; 
+    border:solid;
+    float:left;
+    clear:both;
+    margin-left: 30px;
+}
+
+section{
+    font-family: 'Indie Flower', cursive;
+    font-size:30px;
+}
+
+.titulo{
+    font-family: 'Anton', sans-serif;
+    font-size:70px;
+    float:left;
+    clear:left;
+}
+
+.art1{
+    float:right;
+    clear:right;
+    width: 900px;
+    border:solid;
+    background-color: rgba(22, 63, 105, 0.548);
+    margin-right: 200px;
+   
+
+}
+
+.art2{
+    float:left;
+    width: 1800px;
+}
+
+.lista1{
+    width: 900px;
+   clear:left;
+}
+
+article{
+    float:left;
+    clear:left;
+
+}
+li{
+    float:left;
+    clear:left;
+}
+
+footer{
+    font-family: 'Indie Flower', cursive;
+    font-size:20px;
+    float:right;
+    clear:both;
+    
+}
+
+.atras{
+    float:left;
+    clear:left;
+}
